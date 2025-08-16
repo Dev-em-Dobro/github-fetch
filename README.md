@@ -106,7 +106,7 @@ Este projeto é de código aberto e está disponível sob a licença MIT.
 
 ## 👨‍💻 Autor
 
-Desenvolvido com 💜 para a comunidade de desenvolvedores.
+Desenvolvido com 💜 pela Dev em Dobro.
 
 ---
 
